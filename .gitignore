@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+.pytest_cache/
+model/*.pkl
+model/metrics.json
