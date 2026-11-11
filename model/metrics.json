@@ -1,0 +1,19 @@
+{
+  "model": "GradientBoosting",
+  "rmse_100k_units": 0.5114,
+  "rmse_dollars": 51138.21,
+  "r2": 0.8004,
+  "feature_importances": {
+    "MedInc": 0.5874,
+    "AveOccup": 0.1224,
+    "Longitude": 0.116,
+    "Latitude": 0.103,
+    "HouseAge": 0.0359,
+    "AveRooms": 0.0253,
+    "AveBedrms": 0.0063,
+    "Population": 0.0037
+  },
+  "n_train": 16512,
+  "n_test": 4128,
+  "model_size_mb": 0.08
+}
